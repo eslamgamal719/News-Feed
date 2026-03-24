@@ -3,6 +3,8 @@
 A modern news aggregator built with **React 19** and **Vite 8** that fetches real-time top headlines from [NewsAPI](https://newsapi.org/). Browse, search, and filter news articles by category — all in a clean, responsive Material UI interface.
 
 ---
+<img width="911" height="882" alt="image" src="https://github.com/user-attachments/assets/dc020b5f-c41e-487f-a05c-516e4b9389a7" />
+
 
 ## ✨ Features
 
